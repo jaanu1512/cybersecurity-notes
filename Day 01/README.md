@@ -8,5 +8,7 @@
      - social engineering
      - Man-in-the-middle attack
      - Zero-day attack
+   3. Installation of oracle virtual box, kali linux, 7-zip
+    
   
     
